@@ -1,6 +1,6 @@
 // scripts/seedMenu.js
 // Run with: node scripts/seedMenu.js
-
+//test from Smeha
 import mongoose from 'mongoose';
 import dotenv from 'dotenv';
 import CafeteriaMenu from '../models/CafeteriaMenu.model.js';
